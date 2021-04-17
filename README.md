@@ -3,4 +3,4 @@ tools, mallware; phishing, botnet, database...
 
 <h3> Paypal donations: </h3>
 
-* https://www.paypal.me/AngelSecurityTeam
+* https://www.paypal.com/paypalme/AngelSecTeam
